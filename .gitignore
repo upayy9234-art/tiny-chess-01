@@ -1,0 +1,17 @@
+# dev / test / support files — not part of the submission
+engine_dev.py
+main_src.py
+NOTES.md
+bench.py
+compare_main_vs_dev.py
+elo.py
+play_trial.py
+test_*.py
+kit.json
+requirements.json
+skill.md
+__pycache__/
+*.out
+*.log
+# secrets — NEVER commit
+payout-keypair.json
